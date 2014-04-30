@@ -325,7 +325,7 @@ hr {
 	background: url('../tile-sets/MoBo.jpg');}
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
-	background: url('../tile-sets/Rainbo.jpg');}
+	background: url('../tile-sets/Rainbo2.jpg');}
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
 	background: url('../tile-sets/Paige.jpg');}
@@ -341,7 +341,7 @@ hr {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
-	background: url('../tile-sets/RupertMarie.jpg');
+	background: url('../tile-sets/RupertMarie2.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);}
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
